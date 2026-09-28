@@ -1,0 +1,7 @@
+{
+  "name": "MEDIVAULT",
+  "description": "A Centralized Digital Healthcare Management System with Patient Health Progress Tracking, Consultations, Digital Prescriptions, and Role-Based Access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
